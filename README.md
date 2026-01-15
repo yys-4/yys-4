@@ -157,12 +157,24 @@ My sweet spot? Taking complex requirements and turning them into **elegant, scal
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yys-4&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yys-4&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <a href="https://github.com/yys-4">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yys-4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1c2e4a&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/yys-4">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yys-4&layout=compact&theme=tokyonight&hide_border=true&bg_color=1c2e4a&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yys-4&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=ff6f61&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
+  <a href="https://github.com/yys-4">
+    <img src="https://streak-stats.demolab.com/?user=yys-4&theme=tokyonight&hide_border=true&background=1c2e4a&stroke=23395d&ring=58a6ff&fire=ff6f61&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yys-4">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yys-4&theme=tokyo-night&hide_border=true&bg_color=1c2e4a&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=23395d" alt="Activity Graph"/>
+  </a>
 </p>
 
 ---
