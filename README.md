@@ -158,10 +158,13 @@ My sweet spot? Taking complex requirements and turning them into **elegant, scal
 
 <p align="center">
   <a href="https://github.com/yys-4">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yys-4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1c2e4a&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yys-4&theme=tokyonight" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/yys-4">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yys-4&layout=compact&theme=tokyonight&hide_border=true&bg_color=1c2e4a&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yys-4&theme=tokyonight" alt="Top Languages by Repo"/>
+  </a>
+  <a href="https://github.com/yys-4">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yys-4&theme=tokyonight" alt="Top Languages by Commit"/>
   </a>
 </p>
 
